@@ -1,3 +1,19 @@
+.beauty {
+  background: black;
+  color: white;
+  padding: .36em;
+}
+.self-taught {
+  background: #666;
+  color: white;
+  padding: .36em;
+}
+.design, .develop, .learn {
+  text-decoration: underline;
+}
+
+
+
 .scrol {
   background: #4C4B44;
 }

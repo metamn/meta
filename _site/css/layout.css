@@ -43,16 +43,28 @@ img {
 
 
 .col-11 {
-  width: 45%
   margin-right: 10%;
   float: left;
 }
 .col-12 {
-  width: 45%;
   float: left;
 }
 
 
+#timeline {
+  margin-top: 2.5em;
+}
+#timeline ul {
+  list-style-type: none;
+}
+#timeline ul li {
+  border-bottom: 1px solid;
+}
+
+
+#shopify {
+  margin-top: 2.5em;
+}
 #shopify li {
   width: 30%;
   margin-right: 4%;
